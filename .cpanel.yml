@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/wordqqnt/modonerd/wp-content/themes/modonerd
+    - /bin/cp -R * $DEPLOYPATH
