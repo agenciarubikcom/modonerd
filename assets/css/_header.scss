@@ -1,0 +1,27 @@
+body {
+    background-color: $color-modonerd;
+}
+
+header {
+    background-color: $color-modonerd;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: $color-modonerd;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    height: 40px;
+    a {
+        font-family: 'Roboto', sans-serif;
+        color: #00ffd7;
+        font-weight: 400;
+        font-size: 14px;
+        text-decoration: none;
+    }
+}
