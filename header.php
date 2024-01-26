@@ -2,8 +2,8 @@
 /**
  * The Header template for our theme
  * @package WordPress
- * @subpackage 2001online
- * @since 2001online 1.4
+ * @subpackage ModoNerd
+ * @since ModoNerd
  */
 ?>
 <!DOCTYPE html>
