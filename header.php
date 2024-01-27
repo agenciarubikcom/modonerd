@@ -29,5 +29,5 @@
     <a href="#">Cine</a>
     <a href="#">Series</a>
     <a href="#">Videojuegos</a>
-    <a href="#">Libros10</a>
+    <a href="#">Libros</a>
 </nav>
